@@ -6,4 +6,10 @@
 5. percent
 6. average
 7. comparison
+8. oikik: price of 1 apple 10 tk then, the price of 10 apple
+9. 45, 25, 68
+10. series
+11. prime
+12. permutation
+13. area
 */
